@@ -22,7 +22,7 @@ if intro=='Home page':
     st.title("RETAIL ORDER DATA ANALYSIS")
     st.subheader("Overview of Retail Order Data trends using Kaggle API, Google colab,Postgresql and streamlit")
      
-    st.image("""C:/Users/91701/Downloads/DALL·E 2024-12-24 02.37.01 - A professional and detailed visualization of retail sales data analysis, showcasing bar charts, line graphs, and pie charts representing key sales met.webp""")
+    st.image("DALL·E 2024-12-24 02.37.01 - A professional and detailed visualization of retail sales data analysis, showcasing bar charts, line graphs, and pie charts representing key sales met.webp")
 
     st.write("""
              In this project, the objective is to evaluate and enhance sales performance by uncovering critical patterns, 
